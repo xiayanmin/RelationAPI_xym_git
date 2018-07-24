@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="mysource"/>
+	<classpathentry kind="lib" path="E:/2017/实验代码/标签关联规则挖掘项目代码/maven/edu.mit.jwi_2.4.0_jdk.jar"/>
+	<classpathentry kind="lib" path="E:/2017/实验代码/标签关联规则挖掘项目代码/maven/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="E:/2017/实验代码/标签关联规则挖掘项目代码/maven/jxl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_102"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
